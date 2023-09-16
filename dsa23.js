@@ -1,3 +1,5 @@
+//check if the number have same last digit 
+
 let prompt = require('prompt-sync')()
 const a =  parseInt(prompt('Enter the first integer : '));
 const b = parseInt (prompt('enter the second integer:'));
