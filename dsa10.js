@@ -1,3 +1,5 @@
+//find the prime or not prime number
+
 const input =  require('prompt-sync')()
 let number = parseInt(input(console.log("enter any number")))
 let isprime = true
