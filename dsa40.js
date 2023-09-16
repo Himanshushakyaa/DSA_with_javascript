@@ -43,5 +43,5 @@ function checkstring(str){
 
     for(let i=0; i<3;i++){
         const string   = prompt('Enter a string:');
-        checkstring(string);
+        checkstring(string);check 
     }
