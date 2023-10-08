@@ -1,4 +1,4 @@
-// program to Remove specific item from a array
+// program to Remove specific item from an array
 
 
 function removeItems(arr, n){
